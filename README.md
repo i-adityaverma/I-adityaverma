@@ -14,8 +14,6 @@ My primary focus is Azure, Kubernetes, Infrastructure as Code, and Platform Engi
 - 🔐 PKI, mTLS & Identity
 - 📈 Observability (Prometheus, Grafana & Loki)
 
-## 🛠️ Tech Stack
-
 ## 🛠 Tech Stack
 
 | Category | Technologies |
