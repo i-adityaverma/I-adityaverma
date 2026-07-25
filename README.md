@@ -44,8 +44,6 @@ My primary focus is Azure, Kubernetes, Infrastructure as Code, and Platform Engi
 
 ---
 
-> "Great platforms aren't measured by how much work they require, but by how little developers have to think about them."
-
 <!--
 **i-adityaverma/I-adityaverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
