@@ -16,26 +16,17 @@ My primary focus is Azure, Kubernetes, Infrastructure as Code, and Platform Engi
 
 ## 🛠️ Tech Stack
 
-**Cloud**
-Azure
+## 🛠 Tech Stack
 
-**Containers**
-Docker • Kubernetes (AKS)
-
-**Infrastructure**
-Terraform • GitHub Actions • Azure DevOps • Jenkins
-
-**Programming**
-Python • Bash
-
-**Monitoring**
-Prometheus • Grafana • Loki
-
-**Networking**
-NGINX • HAProxy
-
-**Security**
-PKI • TLS/mTLS • Azure Key Vault
+| Category | Technologies |
+|-----------|--------------|
+| ☁ Cloud | Azure |
+| ☸ Containers | Kubernetes (AKS), Docker |
+| 🏗 Infrastructure | Terraform, GitHub Actions, Azure DevOps, Jenkins |
+| 🐍 Languages | Python, Bash |
+| 📊 Observability | Prometheus, Grafana, Loki |
+| 🌐 Networking | NGINX, HAProxy |
+| 🔐 Security | PKI, TLS/mTLS, Azure Key Vault |
 
 ## 🎯 Engineering Interests
 
