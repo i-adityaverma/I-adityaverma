@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="Aditya-GH-Banner" src="https://github.com/user-attachments/assets/b7966fcf-90bb-4f2c-ac8a-c322b1261e9d" />
 ## Hi there 👋
 
 <!--
