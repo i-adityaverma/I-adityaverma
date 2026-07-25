@@ -3,7 +3,7 @@
 
 Cloud Platform Engineer with 10 years of experience designing, automating, and operating secure, production-grade cloud platforms.
 
-I specialise in Azure, Kubernetes, Infrastructure as Code, and Platform Engineering—building reliable systems that help engineering teams deliver software faster with security, scalability, and observability built in.
+I specialise in designing and operating cloud platforms using Azure, Kubernetes, Terraform, GitOps, and modern CI/CD practices. My focus is on building secure, observable, and scalable platforms that enable engineering teams to deliver software reliably.
 
 ## 🚀 Current Focus
 
@@ -14,17 +14,20 @@ I specialise in Azure, Kubernetes, Infrastructure as Code, and Platform Engineer
 - 🔐 PKI, mTLS & Identity
 - 📈 Observability (Prometheus, Grafana & Loki)
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
-| ☁ Cloud | Azure |
-| ☸ Containers | Kubernetes (AKS), Docker |
-| 🏗 Infrastructure | Terraform, GitHub Actions, Azure DevOps, Jenkins |
-| 🐍 Languages | Python, Bash |
+| ☁️ Cloud | Microsoft Azure (Primary), AWS (Learning), GCP (Learning) |
+| ☸️ Containers | Kubernetes (AKS), Docker |
+| 🔄 GitOps | FluxCD, ArgoCD |
+| 🚀 CI/CD | Azure DevOps, Jenkins, GitHub Actions |
+| 🏗️ Infrastructure | Terraform |
+| 🐍 Automation | Python, Bash |
 | 📊 Observability | Prometheus, Grafana, Loki |
-| 🌐 Networking | NGINX, HAProxy |
+| 🌐 Networking | HAProxy, NGINX, Azure Application Gateway, Azure Firewall |
 | 🔐 Security | PKI, TLS/mTLS, Azure Key Vault |
+| 🗄️ Databases | Redis, Cassandra, MariaDB |
 
 ## 🎯 Engineering Interests
 
