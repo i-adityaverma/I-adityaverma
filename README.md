@@ -7,12 +7,14 @@ I specialise in designing and operating cloud platforms using Azure, Kubernetes,
 
 ## 🚀 Current Focus
 
-- ☁️ Azure Platform Engineering
-- ☸️ Kubernetes (AKS)
+- ☁️ Cloud Platform Engineering (Azure)
+- ☸️ Kubernetes & Platform Operations (AKS)
+- 🔄 GitOps & CI/CD (FluxCD, ArgoCD, Azure DevOps & GitHub Actions)
 - 🏗️ Terraform & Infrastructure as Code
 - 🐍 Python for Cloud Automation
-- 🔐 PKI, mTLS & Identity
+- 🔐 Platform Security (PKI, TLS/mTLS & Identity)
 - 📈 Observability (Prometheus, Grafana & Loki)
+- 🌍 Expanding into AWS & GCP
 
 ## 🛠️ Tech Stack
 
