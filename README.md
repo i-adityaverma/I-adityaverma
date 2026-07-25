@@ -1,9 +1,9 @@
 <img width="1983" height="793" alt="Aditya-GH-Banner" src="https://github.com/user-attachments/assets/b7966fcf-90bb-4f2c-ac8a-c322b1261e9d" />
 ## 👋 Hi, I'm Aditya
 
-Cloud Platform Engineer with over 10 years of experience designing, automating, and operating production-grade cloud platforms.
+Cloud Platform Engineer with 10 years of experience designing, automating, and operating secure, production-grade cloud platforms.
 
-My primary focus is Azure, Kubernetes, Infrastructure as Code, and Platform Engineering. I enjoy building reliable systems that enable developers to move faster while keeping security, scalability, and observability at the core.
+I specialise in Azure, Kubernetes, Infrastructure as Code, and Platform Engineering—building reliable systems that help engineering teams deliver software faster with security, scalability, and observability built in.
 
 ## 🚀 Current Focus
 
